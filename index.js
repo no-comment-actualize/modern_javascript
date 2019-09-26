@@ -8,5 +8,6 @@ console.log(relativeDay);
 
 console.log(math.sqrt(-4));
 
-var name = "Bob", time = "hippopotamus";
+var name = "Bob", time = "yesterday";
 console.log(`Hello ${name}, how are you ${time}?`);
+console.log("made another change");
